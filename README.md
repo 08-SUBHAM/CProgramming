@@ -4,4 +4,5 @@ codes - 'c'
 ## Pointers
 ## Data Types
 ## Structures
-## halla hulla
+## Array
+## Linked List
