@@ -3,4 +3,5 @@ codes - 'c'
 ## Functions
 ## Pointers
 ## Data Types
-## Memory Management
+## Structures
+## halla hulla
